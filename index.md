@@ -9,7 +9,7 @@ layout: home
 ---
 
 
-![](assets/img/banner_nesy.png)
+![](assets/img/banner_nesy.jpg)
 
 This year, **NeSy 2025** will be held in **Santa Cruz, California, from September 8th to 10th.** We accept full papers, short papers, and extended abstracts of recently published papers on any topic related to neurosymbolic AI. Please see the [call for papers](/call-for-papers/) for more details.
 
