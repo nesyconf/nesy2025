@@ -11,19 +11,15 @@ NeSy is the premier annual conference of the research community working on neuro
 ## Relevant Dates
 
 ### Full and Short Paper Submissions (Main Round)
-| Event | Date |
-|-------|------|
-| Full and short paper abstract deadline | February 28, 2025 |
-| Full and short paper submission | March 7, 2025 |
-| Author notification | April 18, 2025 |
-| Camera-ready papers | May 19, 2025 |
+- Full and short paper abstract deadline: February 28, 2025
+- Full and short paper submission: March 7, 2025  
+- Author notification: April 18, 2025
+- Camera-ready papers: May 19, 2025
 
 ### Late Submissions
-| Event | Date |
-|-------|------|
-| Late short paper and extended abstract submission | June 6, 2025 |
-| Author notifications | July 3, 2025 |
-| Camera-ready papers | July 18, 2025 |
+- Late short paper and extended abstract submission: June 6, 2025
+- Author notifications: July 3, 2025  
+- Camera-ready papers: July 18, 2025
 
 All deadlines are 11:59 PM, AoE. Please use [OpenReview](https://openreview.net/group?id=nesyconf.org/NeSy/2025/Conference) for submissions.
 
