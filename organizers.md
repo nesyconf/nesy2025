@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NeSy 2025 Organizers
+title: Organizers
 permalink: /organizers/
 ---
 

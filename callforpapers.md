@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NeSy 2025 Call for Papers
+title: Call for Papers
 permalink: /call-for-papers/
 ---
 
