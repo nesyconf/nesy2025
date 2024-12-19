@@ -112,3 +112,28 @@ a {
   width: 24px;
   height: 24px;
 }
+
+/* Dropdown styling */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  z-index: 1;
+}
+
+.dropdown-content li {
+  margin: 0;
+}
+
+.dropdown-content li a {
+  padding: 10px 15px;
+  white-space: nowrap;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}

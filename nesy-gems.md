@@ -3,6 +3,7 @@ layout: page
 title: Neurosymbolic Generative Models
 permalink: /nesy-gems/
 ---
+
 While Foundational Models have benefited from “scaling laws” their returns on robustness, interpretability, and generalizability are diminishing.  The neurosymbolic paradigm offers a promising path away from the limitations of pure scaling. By integrating symbols, logic, and knowledge structures, we can guide learning and generation processes to be more data-efficient, consistent, and explainable. 
 
 The **Neurosymbolic Generative Models Special Track** at the 19th International Conference on Neurosymbolic Learning and Reasoning (NeSy 2025) aims to bring together researchers working at the intersection of symbolic reasoning and deep generative modelling. We invite submissions that explore how neurosymbolic principles can enhance generative approaches, including large language models, diffusion models, and other generative architectures. Our goal is to foster the development of systems that do more than just “scale up” — they leverage structured knowledge, reasoning capabilities, and integrated symbolic components for creativity, interpretability, and trustworthiness. 
@@ -18,4 +19,4 @@ Submissions are encouraged from all areas related to generative modelling enhanc
 - Developing new metrics, methodologies, and datasets to evaluate data efficiency, explainability and robustness of generative models.
 
 ## Contact
-For inquiries related to this special track, please contact the track chairs: Thiviyan Thanapalasingam (Sony AI) - [thiviyan.t@gmail.com](mailto:thiviyan.t@gmail.com) and Kareem Ahmed (University of California, Irvine) - [kareem.yousrii@gmail.com](mailto:kareem.yousrii@gmail.com)	. 
+For inquiries related to this special track, please contact the track chairs: Thiviyan Thanapalasingam (Sony AI) - [thiviyan.t@gmail.com](mailto:thiviyan.t@gmail.com) and Kareem Ahmed (University of California, Irvine) - [kareem.yousrii@gmail.com](mailto:kareem.yousrii@gmail.com). 
