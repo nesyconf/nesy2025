@@ -15,7 +15,7 @@ This year, **NeSy 2025** will be held in **Santa Cruz, California, from Septembe
 
 The NeSy series is the longest standing gathering for the presentation and discussion of cutting-edge research in [neurosymbolic AI](https://people.cs.ksu.edu/~hitzler/nesy/). NeSy is the annual meeting of the [Neurosymbolic Learning and Reasoning Association](https://nesyconf.org), which has organised NeSy since 2005, back then as a workshop.
 
-### About the NeSy Conference 
+## About the NeSy Conference 
 NeSy studies the integration of deep learning and symbolic AI, by combining statistical machine learning based on neural networks with knowledge representation and reasoning from symbolic AI. 
 Neural networks and statistical Machine Learning have achieved industrial relevance in a number of areas from healthcare to finance and business, obtaining state-of-the-art performance at language modelling, speech and image recognition, sensor data and graph analytics. 
 Symbolic AI is challenged by such unstructured large data, but offers sound and well-understood formal reasoning and explanation via knowledge representation that can be inspected to interpret how decisions follow from data. 
