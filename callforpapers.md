@@ -8,6 +8,8 @@ We invite you to submit papers to the 19th International Conference on Neurosymb
 
 NeSy is the premier annual conference of the research community working on neurosymbolic AI, integrating symbolic and neural approaches to learning, reasoning, and problem-solving in AI. Accepted papers of NeSy 2025 will be published in a volume of [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press/).
 
+Please contact [organisers@nesyconf.org](mailto:organisers@nesyconf.org) for any questions about submissions.
+
 ## Relevant Dates
 
 ### Full and Short Paper Submissions (Main Round)
