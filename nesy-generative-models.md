@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Neurosymbolic Generative Models
-permalink: /nesy-gems/
+permalink: /nesy-generative-models/
 ---
 
 While Foundational Models have benefited from “scaling laws” their returns on robustness, interpretability, and generalizability are diminishing.  The neurosymbolic paradigm offers a promising path away from the limitations of pure scaling. By integrating symbols, logic, and knowledge structures, we can guide learning and generation processes to be more data-efficient, consistent, and explainable. 

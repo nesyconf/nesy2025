@@ -29,7 +29,7 @@ All deadlines are 11:59 PM, AoE. Please use [OpenReview](https://openreview.net/
 The NeSy conference invites theoretical, experimental and applied submissions on the integration of neural networks and symbolic AI.
 
 This year, we have three Special Tracks:
-- [Neurosymbolic Generative Models]({{ site.url }}/nesy-gems);
+- [Neurosymbolic Generative Models]({{ site.url }}/nesy-generative-models);
 - Neurosymbolic Methods for Trustworthy and Interpretable AI;
 - Knowledge Graphs, Ontologies and Neurosymbolic AI
 

@@ -13,7 +13,7 @@ permalink: /organizers/
 - [Emile van Krieken](https://www.emilevankrieken.com/), University of Edinburgh, UK 
 
 ## NeSy 2025 Special Track Chairs
-[Neurosymbolic Generative Models]({{ site.url }}/nesy-gems) Special Track Chairs:
+[Neurosymbolic Generative Models]({{ site.url }}/nesy-generative-models) Special Track Chairs:
   - [Thiviyan Thanapalasingam](https://scholar.google.co.uk/citations?user=F2PvjdUAAAAJ&hl=en), Sony AI, Spain
   - [Kareem Ahmed](https://kareemahmed.com/), University of California, Irvine, USA
 
