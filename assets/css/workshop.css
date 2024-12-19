@@ -126,6 +126,9 @@ a {
   z-index: 1;
   border-radius: 8px;
   border: 1px solid #e0e0e0;
+  text-align: left;
+  font-size: 12px;
+  line-height: 18px;
 }
 
 .dropdown-content li {
