@@ -20,3 +20,6 @@ Submissions are encouraged from all areas related to generative modelling enhanc
 
 ## Contact
 For inquiries related to this special track, please contact the track chairs: Thiviyan Thanapalasingam (Sony AI) - [thiviyan.t@gmail.com](mailto:thiviyan.t@gmail.com) and Kareem Ahmed (University of California, Irvine) - [kareem.yousrii@gmail.com](mailto:kareem.yousrii@gmail.com). 
+
+## Submission
+Please submit your paper according to the [submission guidelines]({{ site.url }}/call-for-papers). In the submission form on OpenReview, please select the "Neurosymbolic Generative Models" special track.
