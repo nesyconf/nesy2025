@@ -14,12 +14,12 @@ permalink: /organizers/
 
 ## NeSy 2025 Special Track Chairs
 [Neurosymbolic Generative Models]({{ site.url }}/nesy-generative-models) Special Track Chairs:
-  - [Thiviyan Thanapalasingam](https://scholar.google.co.uk/citations?user=F2PvjdUAAAAJ&hl=en), Sony AI, Spain
-  - [Kareem Ahmed](https://kareemahmed.com/), University of California, Irvine, USA
+- [Thiviyan Thanapalasingam](https://scholar.google.co.uk/citations?user=F2PvjdUAAAAJ&hl=en), Sony AI, Spain
+- [Kareem Ahmed](https://kareemahmed.com/), University of California, Irvine, USA
 
 Neurosymbolic Methods for Trustworthy and Interpretable AI Special Track Chairs:
 - [Abhilekha Dalal](https://scholar.google.com/citations?user=41YgTS4AAAAJ&hl=en), Kansas State University, USA
-- [Mehwish Alam](https://sites.google.com/view/mehwish-alam/home), Institut Polytechnique de Paris, France
+- [Vaishak Belle](https://vaishakbelle.com/), University of Edinburgh, UK
 
 Knowledge Graphs, Ontologies and Neurosymbolic AI Special Track Chairs:
 - [Cogan Shimizu](https://cogan-shimizu.github.io/), Wright State University, USA

@@ -31,7 +31,7 @@ The NeSy conference invites theoretical, experimental and applied submissions on
 This year, we have three Special Tracks:
 - [Neurosymbolic Generative Models]({{ site.url }}/nesy-generative-models);
 - Neurosymbolic Methods for Trustworthy and Interpretable AI;
-- Knowledge Graphs, Ontologies and Neurosymbolic AI
+- [Knowledge Graphs, Ontologies and Neurosymbolic AI]({{site.url}}/kgs-ontologies)
 
 In addition, we invite papers on all topics related to Neurosymbolic AI, including but not limited to
 - Informed Machine Learning;
