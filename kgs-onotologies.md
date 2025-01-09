@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Neurosymbolic Generative Models
+title: Knowledge Graphs, Ontologies and Neurosymbolic AI
 permalink: /kgs-ontologies/
 ---
 Knowledge graphs and ontologies provide structured, semantically rich frameworks that organize information into human-meaningful relationships, which support logic-based reasoning and decision-making. Neurosymbolic AI builds on these foundations by combining the strengths of symbolic approaches -- such as formal reasoning and explainability -- with the adaptability and scalability of (deep) neural systems and techniques. Together, they address longstanding challenges in AI, including generalization, robustness, and interpretability, offering solutions that are both data-driven and grounded in human-like reasoning.
