@@ -20,13 +20,14 @@ Submissions are encouraged from all areas related to neurosymbolic methods that 
 - Neurosymbolic Debugging and Error Analysis: Techniques for identifying and explaining failures or inconsistencies in AI predictions.
 - Human-AI Collaboration: Neurosymbolic methods for fostering intuitive and trustworthy human-machine interactions.
 - Metrics and Benchmarks: Developing new metrics, datasets, and evaluation methodologies to assess trustworthiness, fairness, interpretability, and robustness in AI.
+
 ## Contact
 For inquiries related to this special track, please contact the track chairs:
-- Abhilekha Dalal (Kansas State University) – abhilekha.dalal@ksu.edu
-- Vaishak Belle (University of Edinburgh) – vbelle@ed.ac.uk
+- **Abhilekha Dalal (Kansas State University) – abhilekha.dalal@ksu.edu**
+- **Vaishak Belle (University of Edinburgh) – vbelle@ed.ac.uk**
 
 ## Submission
-Please submit your paper according to the conference [submission guidelines]({{ site.url }}/call-for-papers). In the submission form on OpenReview, please select the "Neurosymbolic Methods for Trustworthy and Interpretable AI" special track.
+Please submit your paper according to the conference [submission guidelines]({{ site.url }}/call-for-papers). In the submission form on OpenReview, please select the "**Neurosymbolic Methods for Trustworthy and Interpretable AI**" special track.
 
 
 
