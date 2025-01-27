@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Neurosymbolic Methods for Trustworthy and Interpretable AI
-permalink: /thrusworthy-interpretable/
+permalink: /trustworthy-interpretable/
+redirect_from: /thrusworthy-interpretable/
 ---
 The growing adoption of AI in high-stakes applications—such as healthcare, finance, and autonomous systems—has emphasized the need for trustworthy and interpretable AI. While state-of-the-art AI systems achieve remarkable performance, their opaque nature raises critical concerns around transparency, reliability, fairness, and ethical compliance. Neurosymbolic AI presents a transformative paradigm that merges neural systems' scalability and adaptability with the structure, rigor, and explainability of symbolic reasoning.
 
