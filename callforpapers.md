@@ -19,18 +19,18 @@ Full and Short Paper Submissions (Main Round)
 - Camera-ready papers: May 19, 2025
 
 Late Submissions
-- Late short paper and extended abstract submission: June 6, 2025
+- Late papers (full and short) and extended abstract submission: June 6, 2025
 - Author notifications: July 3, 2025  
 - Camera-ready papers: July 18, 2025
 
-All deadlines are 11:59 PM, AoE. Please use [OpenReview](https://openreview.net/group?id=nesyconf.org/NeSy/2025/Conference) for submissions.
+All deadlines are 11:59 PM, AoE. Please use [OpenReview](https://openreview.net/group?id=nesyconf.org/NeSy/2025/Conference) for submissions. 
 
 ## Subject Areas 
 The NeSy conference invites theoretical, experimental and applied submissions on the integration of neural networks and symbolic AI.
 
 This year, we have three Special Tracks:
 - [Neurosymbolic Generative Models]({{ site.url }}/nesy-generative-models);
-- [Knowledge Graphs, Ontologies and Neurosymbolic AI]({{site.url}}/kgs-ontologies)
+- [Knowledge Graphs, Ontologies and Neurosymbolic AI]({{site.url}}/kgs-ontologies);
 - [Neurosymbolic Methods for Trustworthy and Interpretable AI]({{site.url}}/thrusworthy-interpretable)
 
 In addition, we invite papers on all topics related to Neurosymbolic AI, including but not limited to
@@ -55,7 +55,7 @@ In addition, we invite papers on all topics related to Neurosymbolic AI, includi
 - **Short paper and late short paper** submissions should not exceed **5 pages**, excluding references and supplementary materials.
 - **Extended abstracts** should provide an overview of relevant papers in neurosymbolic AI and should not exceed **2 pages**. The original papers should be recently published pieces of work at top conferences (e.g, NeurIPS, ICML, ICLR, AAAI, IJCAI etc.) and journals such as (e.g., AIJ, JAIR, MLJ, IEEE TNNLS, NAI etc.). 
 
-The conference will be held **in-person**, and authors of accepted papers are required to attend the conference physically to present their work. Please note that short paper and extended abstract notification is rather late to allow for late-breaking results — authors from outside the US need to make sure that they have enough time to obtain **US visas**. 
+The conference will be held **in-person**, and authors of accepted papers are required to attend the conference physically to present their work. Please note that the late paper and extended abstract notification is rather close to the conference to allow for late-breaking results — authors from outside the US need to make sure that they have enough time to obtain **US visas**. 
 
 **Reviewing** will be double-blind. After notification, reviews of accepted papers will be posted online on [OpenReview](https://openreview.net/group?id=nesyconf.org/NeSy/2025/Conference) along with the originally submitted version of the paper. Reviewers remain anonymous unless they opt in to them being named. 
 
