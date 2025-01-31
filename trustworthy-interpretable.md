@@ -26,7 +26,6 @@ Submissions are encouraged from all areas related to neurosymbolic methods that 
 For inquiries related to this special track, please contact the track chairs:
 - **Abhilekha Dalal (Kansas State University) – abhilekha.dalal@ksu.edu**
 - **Vaishak Belle (University of Edinburgh) – vbelle@ed.ac.uk**
-- **Claudia d'Amato (University of Bari) – claudia.damato@uniba.it**
 
 ## Submission
 Please submit your paper according to the conference [submission guidelines]({{ site.url }}/call-for-papers). In the submission form on OpenReview, please select the "**Neurosymbolic Methods for Trustworthy and Interpretable AI**" special track.
