@@ -20,6 +20,7 @@ permalink: /organizers/
 Neurosymbolic Methods for Trustworthy and Interpretable AI Special Track Chairs:
 - [Abhilekha Dalal](https://scholar.google.com/citations?user=41YgTS4AAAAJ&hl=en), Kansas State University, USA
 - [Vaishak Belle](https://vaishakbelle.com/), University of Edinburgh, UK
+- [Claudia d'Amato](https://www.uniba.it/it/docenti/damato-claudia), University of Bari, Italy
 
 Knowledge Graphs, Ontologies and Neurosymbolic AI Special Track Chairs:
 - [Cogan Shimizu](https://cogan-shimizu.github.io/), Wright State University, USA
