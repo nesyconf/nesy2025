@@ -3,63 +3,56 @@
 
   <div class="wrapper">
 
-    <!-- Sponsors & Contact Info in One Background Section -->
-    <div class="footer-col" style="background-color: #000000; padding: 50px 0; color: white;">
+   <!-- Contact Info Section (Outside Same Background) -->
+   <!-- <h5 style="text-align: left; color: rgb(0, 0, 0); margin-top: 100px; margin-left: 30px;">Contact</h5> -->
+    <div class="footer-col-wrapper">
+      
+      <div class="footer-col">
+        <div class="social-links" onclick="openSocialLinks(event)">
+          {%- include social.html -%}
+        </div>
+      {%- if site.author %}
+        <ul class="contact-list">
+          {% if site.author.name -%}
+            <li class="p-name">{{ site.author.name | escape }}</li>
+          {% endif -%}
+          {% if site.author.email -%}
+            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+          {%- endif %}
+        </ul>
+      {%- endif %}
+      </div>
+      <div class="footer-col">
+        <p>{{ site.description | escape }}</p>
+        <p>{{ site.attribution }}</p>
+        {% if site.last_updated %}
+        Last updated: {{ "now" | date: '%B %d, %Y' }}.
+        {% endif %}
+      </div>
+    </div>
+
+
+    <!-- Sponsors Info in One Background Section -->
+    <div class="footer-col" style="background-color: #393939; padding: 45px 0; color: white;">
       
       <!-- Sponsors Section -->
       <h5 style="text-align: left; color: rgb(255, 255, 255); margin-left: 30px;">Sponsors</h5>
-      <div class="content" style="display: flex; justify-content: center; align-items: center; gap: 40px; text-align: center;">
+      <div class="content" style="display: flex; justify-content: left; align-items: center; gap: 40px; text-align: center; margin-left: 30px;">
         <a href="https://allegrograph.com/" onclick="window.open(this.href); return false;">
           <img src="/assets/img/sponsors/AllegroGraph-Franz Logo conf--300.png" style="height: 100px;" />
         </a>
-        <a href="https://www.ucsc.edu/" onclick="window.open(this.href); return false;">
+        <!-- <a href="https://www.ucsc.edu/" onclick="window.open(this.href); return false;">
           <img src="/assets/img/sponsors/uc-santa-cruz-logo-secondary-white-996x2752.png" style="height: 50px;" />
-        </a>
+        </a> -->
       </div>
 
-      <!-- Contact Info Section (Inside Same Background) -->
-      <h5 style="text-align: left; color: rgb(255, 255, 255); margin-top: 100px; margin-left: 30px;">Contact</h5>
-      <div class="footer-col-wrapper" style="margin-top: 30px; margin-right: 30px; text-align: center;">
-
-        <!-- Social Links -->
-        <div class="footer-col">
-          <div class="social-links" onclick="openSocialLinks(event)">
-            {%- include social.html -%}
-          </div>
-
-          <!-- Contact Details -->
-          {%- if site.author %}
-            <ul class="contact-list" style="list-style: none; padding: 0;">
-              {% if site.author.name -%}
-                <li class="p-name" style="color: white;">{{ site.author.name | escape }}</li>
-              {% endif -%}
-              {% if site.author.email -%}
-                <li>
-                  <a class="u-email" href="mailto:{{ site.author.email }}" target="_blank" rel="noopener noreferrer" style="color: white;">
-                    {{ site.author.email }}
-                  </a>
-                </li>
-              {%- endif %}
-            </ul>
-          {%- endif %}
-        </div>
-
-        <!-- Description & Attribution -->
-        <div class="footer-col">
-          <p style="color: white; text-align: left;">{{ site.description | escape }}</p>
-          <p style="color: white;">{{ site.attribution }}</p>
-          {% if site.last_updated %}
-          <p style="color: white;">Last updated: {{ "now" | date: '%B %d, %Y' }}.</p>
-          {% endif %}
-        </div>
-
-      </div>
     </div>
+
 
   </div>
 </footer>
 
-<!-- Moved JavaScript to the Bottom -->
+<!--  JavaScript for url click -->
 <script>
   function openSocialLinks(event) {
     let target = event.target.closest("a"); // Ensure the click is on a link
