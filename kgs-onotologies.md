@@ -30,7 +30,7 @@ Submissions are encouraged from all areas related neurosymbolic principles which
 Please note that this is _not_ a resources track. Papers that only present a framework or pipeline are not in-scope. Such engineering is valuable, of course, but should be presented in the context of its evaluation; correctness or other metrics; and production of reasonable KRR artifacts or their use thereof.  
 
 ## Contact
-For inquiries related to this special track, please contact the track chairs: Cogan Shimizu (cogan.shimizu@wright.edu) and TBD.
+For inquiries related to this special track, please contact the track chairs: **Cogan Shimizu** (cogan.shimizu@wright.edu) and **Claudia d'Amato** (claudia.damato@uniba.it).
 
 ## Submission
 Please submit your paper according to the [submission guidelines]({{ site.url }}/call-for-papers). In the submission form on OpenReview, please select the “Knowledge Graphs, Ontologies and Neurosymbolic AI” special track.

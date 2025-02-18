@@ -28,7 +28,16 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
+gem "csv"
+gem "base64"
+gem "bigdecimal"
 
 gemspec
 
 gem "jekyll", ENV["JEKYLL_VERSION"] if ENV["JEKYLL_VERSION"]
+
+gem "webrick", "~> 1.9"
+
+gem "jekyll-redirect-from"
+
+gem "liquid", "~> 4.0.4"
