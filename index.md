@@ -15,6 +15,11 @@ This year, **NeSy 2025** will be held in **Santa Cruz, California, from Septembe
 
 The NeSy series is the longest standing gathering for the presentation and discussion of cutting-edge research in [neurosymbolic AI](https://people.cs.ksu.edu/~hitzler/nesy/). NeSy is the annual meeting of the [Neurosymbolic Learning and Reasoning Association](https://nesyconf.org), which has organised NeSy since 2005, back then as a workshop.
 
+We are excited to announce our excellent line-up of keynote speakers:
+- [Guy van den Broeck](https://web.cs.ucla.edu/~guyvdb/), University of California, LA 
+- [Thomas Kipf](https://tkipf.github.io/), Google DeepMind
+- [Deborah McGuinness](https://faculty.rpi.edu/deborah-mcguinness), Rensselaer Polytechnic Institute
+
 ## About the NeSy Conference 
 NeSy studies the integration of deep learning and symbolic AI, by combining statistical machine learning based on neural networks with knowledge representation and reasoning from symbolic AI. 
 Neural networks and statistical Machine Learning have achieved industrial relevance in a number of areas from healthcare to finance and business, obtaining state-of-the-art performance at language modelling, speech and image recognition, sensor data and graph analytics. 
