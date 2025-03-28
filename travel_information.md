@@ -10,13 +10,10 @@ In accordance with UC policy, please use the most economical method(s) of transp
 
 You must book and pay for all your own travel expenses.
 
-**If traveling by air**, please make your reservations as soon as possible to obtain the best rate. We strongly recommend flying into San Jose International Airport (SJC).  We can reimburse only coach class tickets. Drive times from the airports to the UCSC area are as follows: San Jose airport ~45 minutes, San Francisco airport ~90 minutes, Oakland airport ~90 minutes.
+**If traveling by air**, please make your reservations as soon as possible to obtain the best rate. We strongly recommend flying into San Jose International Airport (SJC). Drive times from the airports to the UCSC area are as follows: San Jose airport ~45 minutes, San Francisco airport ~90 minutes, Oakland airport ~90 minutes.
 
 
-**If you use your personal vehicle** for any leg of the travel, you must provide your departure and destination addresses so that we can calculate your mileage for reimbursement.
-
-
-**If you choose another form of transportation** (such your personal vehicle, car rental, Amtrak or Greyhound) to your destination rather than fly, UCSC will reimburse the lesser of the two costs. Your personal automobile must be insured.
+**If you choose another form of transportation** (such your personal vehicle, car rental, Amtrak or Greyhound) to your destination rather than fly, your personal automobile must be insured.
 
 ### Ground transportation to/from airport
 We recommend using ride-sharing services (e.g., Uber, Lyft) from home to your local Airport, and the Airport to Santa Cruz.
