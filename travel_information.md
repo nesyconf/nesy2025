@@ -20,7 +20,7 @@ We recommend using ride-sharing services (e.g., Uber, Lyft) from home to your lo
 
 ### Lodging
 
-You can find local lodging options in Santa Cruz at [https://www.santacruz.org/places-to-stay/](https://www.santacruz.org/places-to-stay/). Most visitors should plan on staying the night of Sunday, April 2.  You can also choose to stay an additional night (should you want to spend more time exploring Santa Cruz on your own, for instance). 
+You can find local lodging options in Santa Cruz at [https://www.santacruz.org/places-to-stay/](https://www.santacruz.org/places-to-stay/). Most visitors should plan on staying from September 8th to 10th.  You can also choose to stay an additional night (should you want to spend more time exploring Santa Cruz on your own, for instance). 
 
 Highlighted Hotel Option – Dream Inn
 
