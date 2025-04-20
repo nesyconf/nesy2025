@@ -15,7 +15,7 @@ Please contact [organisers@nesyconf.org](mailto:organisers@nesyconf.org) for any
 Full and Short Paper Submissions (Main Round)
 - ~~Full and short paper abstract deadline: February 28, 2025~~
 - ~~Full and short paper submission: March 7, 2025~~
-- Author notification: April 18, 2025
+- ~~Author notification: April 18, 2025~~
 - Camera-ready papers: May 19, 2025
 
 Late Submissions
@@ -23,6 +23,11 @@ Late Submissions
 - Late papers (full and short) and extended abstract submission: June 6, 2025
 - Author notifications: July 3, 2025  
 - Camera-ready papers: July 18, 2025
+
+Industry abstracts
+- Industry abstract deadline: June 15, 2025
+- Author notifications: July 3, 2025
+
 
 All deadlines are 11:59 PM, AoE. Please use [OpenReview](https://openreview.net/group?id=nesyconf.org/NeSy/2025/Conference) for submissions. 
 
@@ -55,6 +60,7 @@ In addition, we invite papers on all topics related to Neurosymbolic AI, includi
 - **Full paper** submissions should not exceed **10 pages**, excluding references and supplementary materials. 
 - **Short paper and late short paper** submissions should not exceed **5 pages**, excluding references and supplementary materials.
 - **Extended abstracts** should provide an overview of relevant papers in neurosymbolic AI and should not exceed **2 pages**. The original papers should be recently published pieces of work at top conferences (e.g, NeurIPS, ICML, ICLR, AAAI, IJCAI etc.) and journals such as (e.g., AIJ, JAIR, MLJ, IEEE TNNLS, NAI etc.). 
+- **Industry abstracts** should provide an overview of the industrial effort related to neurosymbolic AI and should not exceed 2 pages. 
 - **First round resubmissions in the late deadline** should fill in the text field in the form indicating the changes done from the first round and how they address the reviewers’ comments. These papers will be assigned to the same reviewers as the first round. 
 
 The conference will be held **in-person**, and authors of accepted papers are required to attend the conference physically to present their work. Please note that the late paper and extended abstract notification is rather close to the conference to allow for late-breaking results — authors from outside the US need to make sure that they have enough time to obtain **US visas**. 
