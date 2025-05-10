@@ -16,7 +16,7 @@ Full and Short Paper Submissions (Main Round)
 - ~~Full and short paper abstract deadline: February 28, 2025~~
 - ~~Full and short paper submission: March 7, 2025~~
 - ~~Author notification: April 18, 2025~~
-- Camera-ready papers: May 19, 2025
+- Camera-ready papers: May 26, 2025
 
 Late Submissions
 - Late papers (full and short) abstract deadline: May 30, 2025
@@ -29,7 +29,7 @@ Industry abstracts
 - Author notifications: July 3, 2025
 
 
-All deadlines are 11:59 PM, AoE. Please use [OpenReview](https://openreview.net/group?id=nesyconf.org/NeSy/2025/Conference) for submissions. 
+All deadlines are 11:59 PM, AoE. Please use [OpenReview](https://openreview.net/group?id=nesyconf.org/NeSy/2025/Conference_Phase_2) for the late submissions, extended abstracts and industry abstracts. 
 
 ## Subject Areas 
 The NeSy conference invites theoretical, experimental and applied submissions on the integration of neural networks and symbolic AI.
@@ -53,8 +53,8 @@ In addition, we invite papers on all topics related to Neurosymbolic AI, includi
 - Applications of Neurosymbolic AI, including in education, law, simulation, finance, healthcare, robotics, software engineering, systems engineering, bioinformatics, and visual intelligence;
 
 ## Submission guidelines 
-- All submissions should be made before the deadline on [our OpenReview page](https://openreview.net/group?id=nesyconf.org/NeSy/2025/Conference). 
-- Please use the **Latex template** available at [this link](https://drive.google.com/drive/folders/1_SmJI3rx548k6KkTPP5QLZoJ8lois26D?usp=sharing).
+- All submissions should be made before the deadline on [our OpenReview page](https://openreview.net/group?id=nesyconf.org/NeSy/2025/Conference_Phase_2). 
+- Please use the **Latex template** available at [this link](https://drive.google.com/drive/folders/1_SmJI3rx548k6KkTPP5QLZoJ8lois26D?usp=sharing). This was updated on 9 May.
 - Both full and short paper submissions should be original pieces of work or position papers. They should not have been published elsewhere. We have a strict policy on double submissions. 
 - Full and short papers will be in the conference proceedings of NeSy 2025, which will be published with the [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press/).
 - **Full paper** submissions should not exceed **10 pages**, excluding references and supplementary materials. 
@@ -65,7 +65,7 @@ In addition, we invite papers on all topics related to Neurosymbolic AI, includi
 
 The conference will be held **in-person**, and authors of accepted papers are required to attend the conference physically to present their work. Please note that the late paper and extended abstract notification is rather close to the conference to allow for late-breaking results — authors from outside the US need to make sure that they have enough time to obtain **US visas**. 
 
-**Reviewing** will be double-blind. After notification, reviews of accepted papers will be posted online on [OpenReview](https://openreview.net/group?id=nesyconf.org/NeSy/2025/Conference) along with the originally submitted version of the paper. Reviewers remain anonymous unless they opt in to them being named. 
+**Reviewing** will be double-blind. After notification, reviews of accepted papers will be posted online on [OpenReview](https://openreview.net/group?id=nesyconf.org/NeSy/2025/Conference_Phase_2) along with the originally submitted version of the paper. Reviewers remain anonymous unless they opt in to them being named. 
 
 Accepted paper authors will be invited to submit **extended versions** of papers to a special issue of the [Neurosymbolic Artificial Intelligence journal](https://neurosymbolic-ai-journal.com/content/about-neurosymbolic-artificial-intelligence).
 
