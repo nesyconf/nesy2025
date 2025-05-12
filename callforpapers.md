@@ -16,7 +16,7 @@ Full and Short Paper Submissions (Main Round)
 - ~~Full and short paper abstract deadline: February 28, 2025~~
 - ~~Full and short paper submission: March 7, 2025~~
 - ~~Author notification: April 18, 2025~~
-- Camera-ready papers: May 26, 2025
+- Camera-ready papers: May 30, 2025
 
 Late Submissions
 - Late papers (full and short) abstract deadline: May 30, 2025
