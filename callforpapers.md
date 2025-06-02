@@ -12,14 +12,13 @@ Please contact [organisers@nesyconf.org](mailto:organisers@nesyconf.org) for any
 
 ## Relevant Dates
 
-Full and Short Paper Submissions (Main Round)
+Full and Short Paper Submissions (Submission Phase 1)
 - ~~Full and short paper abstract deadline: February 28, 2025~~
 - ~~Full and short paper submission: March 7, 2025~~
 - ~~Author notification: April 18, 2025~~
-- Camera-ready papers: May 30, 2025
+- ~~Camera-ready papers: May 30, 2025~~
 
-Late Submissions
-- Late papers (full and short) abstract deadline: May 30, 2025
+Late Submissions (Submission Phase 2)
 - Late papers (full and short) and extended abstract submission: June 6, 2025
 - Author notifications: July 3, 2025  
 - Camera-ready papers: July 18, 2025
