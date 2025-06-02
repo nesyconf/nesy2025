@@ -13,7 +13,7 @@ layout: home
 
 This year, **NeSy 2025** will be held in **Santa Cruz, California, from September 8th to 10th.** We accept full papers, short papers, and extended abstracts of recently published papers on any topic related to neurosymbolic AI. Please see the [call for papers](/call-for-papers/) for more details.
 
-The NeSy series is the longest standing gathering for the presentation and discussion of cutting-edge research in [neurosymbolic AI](https://people.cs.ksu.edu/~hitzler/nesy/). NeSy is the annual meeting of the [Neurosymbolic Learning and Reasoning Association](https://nesyconf.org), which has organised NeSy since 2005, back then as a workshop.
+The NeSy series is the longest standing gathering for the presentation and discussion of cutting-edge research in [neurosymbolic AI](https://people.cs.ksu.edu/~hitzler/nesy/). NeSy is the annual meeting of the [Neurosymbolic Learning and Reasoning Association](https://nesy-ai.org/), which has organised NeSy since 2005, back then as a workshop.
 
 We are excited to announce our **excellent line-up of keynote speakers**:
 - [Guy van den Broeck](https://web.cs.ucla.edu/~guyvdb/), University of California, LA 
