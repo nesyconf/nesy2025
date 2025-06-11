@@ -19,7 +19,7 @@ Full and Short Paper Submissions (Submission Phase 1)
 - ~~Camera-ready papers: May 30, 2025~~
 
 Late Submissions (Submission Phase 2)
-- Late papers (full and short) and extended abstract submission: June 6, 2025
+- ~~Late papers (full and short) and extended abstract submission: June 6, 2025~~
 - Author notifications: July 3, 2025  
 - Camera-ready papers: July 18, 2025
 
