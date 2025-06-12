@@ -6,14 +6,9 @@ permalink: /travel_information/
 
 ### Transportation* (Please see below for Parking/Bus Information to Campus)
 
-In accordance with UC policy, please use the most economical method(s) of transportation.
 
-You must book and pay for all your own travel expenses.
+We suggest to make your reservations as soon as possible to obtain the best rate. We  recommend flying into San Jose International Airport (SJC), although San Francisco International Airport (SFO) offers more international options. Drive times from the airports to the UCSC area are as follows: San Jose airport ~45 minutes, San Francisco airport ~90 minutes, Oakland airport ~90 minutes.
 
-**If traveling by air**, please make your reservations as soon as possible to obtain the best rate. We strongly recommend flying into San Jose International Airport (SJC). Drive times from the airports to the UCSC area are as follows: San Jose airport ~45 minutes, San Francisco airport ~90 minutes, Oakland airport ~90 minutes.
-
-
-**If you choose another form of transportation** (such your personal vehicle, car rental, Amtrak or Greyhound) to your destination rather than fly, your personal automobile must be insured.
 
 ### Ground transportation to/from airport
 We recommend using ride-sharing services (e.g., Uber, Lyft) from home to your local Airport, and the Airport to Santa Cruz.
@@ -36,10 +31,6 @@ Highlighted Hotel Option – Dream Inn
 
 If you choose to take the bus, you can use any of the following Metro routes: 10, 15, 18, 19, or 20. For the day events, please get off at the “Science Hill” bus stop.
 
-
-For the mixer, you can use the following Metro routes to access the Coastal Science Campus: 20, or 22. Please get off at the “Seymour Center” bus stop
-
-
 We will have signage to help direct you to the event.
 
 The Metro System Map is available [here](http://www.scmtd.com/en/routes/schedule/map). One-way bus fare is $2.00. A day pass is $6.00. Fare information is available [here](http://www.scmtd.com/en/fares/fares).
@@ -50,10 +41,6 @@ If you choose to drive to campus, you will need to purchase a UCSC parking permi
 
 
 For the day portion, it is recommended you park at either the Core West Parking Structure (UCSC parking permit) or the North Perimeter Lot (ParkMobile daily rate), as these are the closest to our event.
-
-
-For the mixer, it is recommended that you park in Lot 201 at the Coastal Science Campus. You can use either your UCSC parking permit here, or use ParkMobile.
-
 
 We will have signage to help direct you to the event.
 
