@@ -25,7 +25,7 @@ Late Submissions (Submission Phase 2)
 
 Industry abstracts
 - Industry abstract deadline: June 15, 2025
-- Author notifications: July 3, 2025
+- Author notifications: July 11, 2025
 
 
 All deadlines are 11:59 PM, AoE. Please use [OpenReview](https://openreview.net/group?id=nesyconf.org/NeSy/2025/Conference_Phase_2) for the late submissions, extended abstracts and industry abstracts. 
