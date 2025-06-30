@@ -12,7 +12,10 @@ The early registration fees (by August 7) are:
 - $250 for students
 - $500 for general
 
-The late registration deadline (starting August 8) is $800
+The late registration fee (starting August 8) is $800
 
 For information about Santa Cruz and local accomodations, check out the page on [travel information](/travel_information/).
+
+### Travel Grant Opportunities
+There are a limited number of [travel grants](/travel_grants/) for US-based students and early career researchers.  Deadline is July 23, 2025.
 
