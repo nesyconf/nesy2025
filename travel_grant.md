@@ -20,7 +20,10 @@ Recipients of this travel assistance will gain access to:
 
 Interested applicants should:
 1. Complete and fill out this [google form](https://forms.gle/VfZ5oZN8F3pZ8EgW9) by July 23, 2025
-2.  Applicants will also need to ask their supervisor to submit a letter of support to: organisers@nesyconf.org . The supervisor’s letter should provide written statements regarding availability (or lack thereof) of travel funds for the applicants from NSF and other funding sources, and should commit to covering the cost of travel in excess of the travel grant from
+2. Applicants will also need to ask their supervisor to submit a letter of support to: organisers@nesyconf.org . The supervisor’s letter should provide written statements regarding availability (or lack thereof) of travel funds for the applicants from NSF and other funding sources, and should commit to covering the cost of travel in excess of the travel grant from
 NeSy. 
 
 Notification of Award: July 30, 2025
+
+## Contact
+For questions or concerns about the opportunity, please contact NeSy 2025 General Chair, Leilani H. Gilpin, lgilpin @ ucsc.edu.  
