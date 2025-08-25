@@ -1,5 +1,5 @@
 ---
-sequence_id: 27
+sequence_id: 28
 speaker: Gary Marcus
 webpage: https://garymarcus.substack.com/
 title: Keynote

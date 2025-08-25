@@ -2,7 +2,7 @@
 sequence_id: 14
 speaker: 
 title: Oral presentations
-time: 10:45 - 12:00
+time: 10:45 - 11:45
 ---
 
 - Towards a Neurosymbolic Reasoning System Grounded in Schematic Representations (_François Olivier, Zied Bouraoui_)
