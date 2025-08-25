@@ -3,6 +3,13 @@ layout: page
 title: Travel Information
 permalink: /travel_information/
 ---
+The conference location will be at University of California, Santa Cruz (UCSC) at the [Jack Baskin Auditorium 101](https://classrooms.ucsc.edu/eng101/).  The address of the venue is: Jack Baskin Auditorium
+605 Baskin Circle
+Santa Cruz, CA 95064.  [Google Maps Link](https://maps.app.goo.gl/AfiK9BVhGYLVkeTe6).
+
+Coffee breaks and the poster session will take place outside in the Auditorium Courtyard.
+
+The opening reception will be on September 8 from 6:30-8pm at the [Dream Inn Hotel](https://www.dreaminnsantacruz.com/) at the Surf View Room.
 
 ### Transportation* (Please see below for Parking/Bus Information to Campus)
 
