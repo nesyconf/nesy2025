@@ -1,6 +1,8 @@
 ---
 sequence_id: 28
 speaker: 
-title: Poster and reception
+title: Poster Session 3 and reception
 time: 14:45 - 16:00
 ---
+
+See below for the list of posters.

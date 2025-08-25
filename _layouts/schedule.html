@@ -24,6 +24,11 @@ layout: default
               <td align="center">
                 <div class="col-xs-12">
                   <b>{{ scheduleitem.title }}</b>
+                  {% if scheduleitem.content %}
+                    <div class="schedule-content">
+                      {{ scheduleitem.content | markdownify }}
+                    </div>
+                  {% endif %}
                 </div>
               </td>
               <td>

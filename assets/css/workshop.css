@@ -97,6 +97,51 @@ h1, h2, h3, h4, h5, h6 {
     color: rgb(194, 27, 27);
 }
 
+/* Schedule content styling */
+.schedule-content {
+    max-width: 100%;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    margin-top: 8px;
+    font-size: 0.9em;
+    line-height: 1.4;
+}
+
+.schedule-content p {
+    margin: 0 0 8px 0;
+}
+
+.schedule-content p:last-child {
+    margin-bottom: 0;
+}
+
+/* Ensure table cells don't expand beyond their intended width */
+.post-content table td {
+    vertical-align: top;
+    max-width: 0; /* Forces text wrapping */
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+.post-content table td:nth-child(2) {
+    /* Middle column (title and content) */
+    width: 67%;
+    max-width: 67%;
+    text-align: left;
+}
+
+.post-content table td:nth-child(1) {
+    /* Time column */
+    width: 15%;
+    max-width: 15%;
+}
+
+.post-content table td:nth-child(3) {
+    /* Speaker column */
+    width: 35%;
+    max-width: 35%;
+}
+
 body {
     font-family: 'Open Sans', sans-serif;
 }
