@@ -55,6 +55,7 @@ permalink: /schedule/
 - Neuro‑Symbolic Data Collection Automata for Training Language Models on Edge Devices (_Jake Ryland Williams, August Lilley, Ankur Mali_). **Industry Abstract**, [OpenReview link](https://openreview.net/forum?id=wO7CP2lpCJ)
 - T-ILR: a Neurosymbolic Integration for LTLf (_Riccardo Andreoni, Andrei Buliga, Alessandro Daniele, Chiara Ghidini, Marco Montali, Massimiliano Ronzani_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=TI0aaA9Nfa)
 - Neuro-Argumentative Learning with Case-Based Reasoning (_Adam Gould, Francesca Toni_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=tke5yswemI)
+- Beyond the convexity assumption: Realistic tabular data generation under quantifier-free real linear constraints (_Mihaela C. Stoian, Eleonora Giunchiglia_). **Extended Abstract**, [OpenReview link](https://openreview.net/forum?id=y4PZXEJXUc).
 
 **Neurosymbolic Generative Models**
 
@@ -71,7 +72,7 @@ permalink: /schedule/
 
 **Neurosymbolic Methods for Trustworthy and Interpretable AI**
 
-- Extracting PAC Decision Trees from Black Box Binary Classifiers (Extended Abstract) (_Ana Ozaki, Roberto Confalonieri, Ricardo Guimarães, Anders Imenes_). **Extended Abstract**, [OpenReview link](https://openreview.net/forum?id=yjOXOKORQu)
+- Extracting PAC Decision Trees from Black Box Binary Classifiers (_Ana Ozaki, Roberto Confalonieri, Ricardo Guimarães, Anders Imenes_). **Extended Abstract**, [OpenReview link](https://openreview.net/forum?id=yjOXOKORQu)
 - Exploring Verification Frameworks for Social Choice Alignment (_Jessica Ciupa, Vaishak Belle, Ekaterina Komendantskaya_). **Short Paper**, [OpenReview link](https://openreview.net/forum?id=BfxoGYNJa3)
 - Explainable Zero-Shot Visual Question Answering via Logic-Based Reasoning (_Thomas Eiter, Jan Hadl, Nelson Higuera Ruiz, Lukas Lange, Johannes Oetsch, Bileam Scheuvens, Jannik Strötgen_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=k4p44AIby6)
 - ArgRAG: Explainable Retrieval Augmented Generation using Quantitative Bipolar Argumentation (_Yuqicheng Zhu, Nico Potyka, Daniel Hernández, Yuan He, Zifeng Ding, Bo Xiong, Dongzhuoran Zhou, Evgeny Kharlamov, Steffen Staab_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=oYFXK9szLN)
@@ -95,6 +96,7 @@ permalink: /schedule/
 - Practical Lessons on Vector-Symbolic Architectures in Deep Learning-Inspired Environments (_Francesco S. Carzaniga, Michael Hersche, Kaspar Schindler, Abbas Rahimi_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=5ZmvZkqyoy)
 - Neurosymbolic Tag-Based Annotation for Interpretable Avatar Creation (_Minghao Liu, Zeyu Cheng, Shen Sang, Jing Liu, James Davis_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=ROcvabXGkL)
 - A Comparative Analysis of NeSy Frameworks and What's Next? (_Sania Sinha, Tanawan Premsri, Parisa Kordjamshidi_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=psXDX4Q8E5)
+- DeepDFA: Learning and Integration of Regular Languages with Deep Learning (_Elena Umili_). **Extended Abstract**, [OpenReview link](https://openreview.net/forum?id=OI89X7HlT0)
 
 **Neurosymbolic Generative Models**
 
