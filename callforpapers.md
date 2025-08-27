@@ -21,13 +21,13 @@ Full and Short Paper Submissions (Submission Phase 1)
 Late Submissions (Submission Phase 2)
 - ~~Late papers (full and short) and extended abstract submission: June 6, 2025~~
 - ~~Author notifications: July 11, 2025~~
-- Camera-ready papers: August 1, 2025
+- ~~Camera-ready papers: August 1, 2025~~
 
 Industry abstracts
 - ~~Industry abstract deadline: June 15, 2025~~
 - ~~Author notifications: July 11, 2025~~
-- Late submissions: August 1, 2025
-- Author notifications: August 6, 2025
+- ~~Late submissions: August 1, 2025~~
+- ~~Author notifications: August 6, 2025~~
 
 
 All deadlines are 11:59 PM, AoE. Please use [OpenReview](https://openreview.net/group?id=nesyconf.org/NeSy/2025/Conference_Phase_2) for the late submissions, extended abstracts and industry abstracts. 
