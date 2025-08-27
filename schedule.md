@@ -18,7 +18,7 @@ permalink: /schedule/
 - Can Large Reasoning Models do Analogical Reasoning under Perceptual Uncertainty? (_Giacomo Camposampiero, Michael Hersche, Roger Wattenhofer, Abu Sebastian, Abbas Rahimi_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=ZcdBwzcBmV)
 - Neurosymbolic Reasoning Shortcuts under the Independence Assumption (_Emile van Krieken, Pasquale Minervini, Edoardo Ponti, Antonio Vergari_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=ifoKXDf1KS)
 - Neural-Symbolic Architectural Axioms of Integration: A Manifesto (_Connor Pryor, Lise Getoor_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=zvDSg565AA)
-- Which AI Do We Trust? NeuroSymbolic AI in Healthcare (_Jans Aasman_; Franz Inc.). **Industry Abstract**, [Paper link](/assets/pdf/papers/franz.pdf)
+- Which AI Do We Trust? NeuroSymbolic AI in Healthcare (_Jans Aasman_; [Franz Inc.](https://franz.com/)). **Industry Abstract**, [Paper link](/assets/pdf/papers/franz.pdf)
 
 **Neurosymbolic Generative Models**
 
@@ -85,8 +85,8 @@ permalink: /schedule/
 - JARVIS: A Neuro-Symbolic Commonsense Reasoning Framework for Conversational Embodied Agents (_Kaizhi Zheng, Kaiwen Zhou, Jing Gu, Yue Fan, Jialu Wang, Zonglin Di, Xuehai He, Xin Eric Wang_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=T9J96eD2Li)
 - Description Logic Concept Learning using Large Language Models (_Adrita Barua, Pascal Hitzler_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=ebVC7S5VMF)
 - Neurosymbolic Learning in Structured Probability Spaces: A Case Study (_Ole Fenske, Sebastian Bader, Thomas Kirste_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=H09CxBms1D)
-- Evolutionary Surrogate-Assisted Prescription: Neuro-Symbolic Framework for Trustworthy Decisioning (_Hormoz Shahrzad, Risto Miikkulainen_). **Industry Abstract**, [OpenReview link](https://openreview.net/forum?id=lV3XJUDBTc)
-- Neurosymbolic AI to Support Unstructured Data Processing in Process and Automation Engineering (_Nicolai Schoch, Mario Hoernicke_). **Industry Abstract**, [OpenReview link](https://openreview.net/forum?id=j8IghokAXF)
+- Evolutionary Surrogate-Assisted Prescription: Neuro-Symbolic Framework for Trustworthy Decisioning (_Hormoz Shahrzad, Risto Miikkulainen_, [Cognizant](https://www.cognizant.com)). **Industry Abstract**, [OpenReview link](https://openreview.net/forum?id=lV3XJUDBTc)
+<!-- - Neurosymbolic AI to Support Unstructured Data Processing in Process and Automation Engineering (_Nicolai Schoch, Mario Hoernicke_). **Industry Abstract**, [OpenReview link](https://openreview.net/forum?id=j8IghokAXF) -->
 - Towards a Neurosymbolic Reasoning System Grounded in Schematic Representations (_François Olivier, Zied Bouraoui_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=bbYk2pD7qY)
 - Do Graph Neural Network States Contain Graph Properties? (_Tom Pelletreau-Duris, Ruud van Bakel, Michael Cochez_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=KZgFHRwNhf)
 - Learning Symbolic Persistent Macro-Actions for POMDP Solving Over Time (_Celeste Veronese, Daniele Meli, Alessandro Farinelli_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=8d7Aj30YF4)
