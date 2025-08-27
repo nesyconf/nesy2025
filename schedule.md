@@ -18,6 +18,7 @@ permalink: /schedule/
 - Can Large Reasoning Models do Analogical Reasoning under Perceptual Uncertainty? (_Giacomo Camposampiero, Michael Hersche, Roger Wattenhofer, Abu Sebastian, Abbas Rahimi_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=ZcdBwzcBmV)
 - Neurosymbolic Reasoning Shortcuts under the Independence Assumption (_Emile van Krieken, Pasquale Minervini, Edoardo Ponti, Antonio Vergari_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=ifoKXDf1KS)
 - Neural-Symbolic Architectural Axioms of Integration: A Manifesto (_Connor Pryor, Lise Getoor_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=zvDSg565AA)
+- Which AI Do We Trust? NeuroSymbolic AI in Healthcare (_Jans Aasman_; Franz Inc.). **Industry Abstract**, [Paper link](/assets/pdf/papers/franz.pdf)
 
 **Neurosymbolic Generative Models**
 
