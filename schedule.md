@@ -51,12 +51,13 @@ permalink: /schedule/
 - Generating Safety-Critical Automotive C-programs using LLMs with Formal Verification (_Merlijn Sevenhuijsen, Minal Suresh Patil, Mattias Nyberg, Gustav Ung_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=xcLrUIeGo3)
 - An evidence-based neuro-symbolic framework for ambiguous image scene classification (_Giulia Murtas, Veselka Boeva, Elena Tsiporkova_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=6UnuZcQ2zY)
 - A Neurosymbolic Approach to Counterfactual Fairness (_Xenia Heilmann, Chiara Manganini, Mattia Cerrato, Vaishak Belle_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=YZSDHz3Ydb)
-- LUT Based Neural Networks as Neuro-Symbolic Systems (_Lizy Kurian John, Priscila Machado Vieira Lima, Alan T. L. Bacellar, Shashank Nag, Eugene John, Felipe M.G. França_). **Extended Abstract**, [OpenReview link](https://openreview.net/forum?id=8zLLH9euYp)
-- Neuro-Symbolic Inverse Constrained Reinforcement Learning (_Oliver Deane, Oliver Ray_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=oVb3sJAnfx)
-- Neuro‑Symbolic Data Collection Automata for Training Language Models on Edge Devices (_Jake Ryland Williams, August Lilley, Ankur Mali_). **Industry Abstract**, [OpenReview link](https://openreview.net/forum?id=wO7CP2lpCJ)
 - T-ILR: a Neurosymbolic Integration for LTLf (_Riccardo Andreoni, Andrei Buliga, Alessandro Daniele, Chiara Ghidini, Marco Montali, Massimiliano Ronzani_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=TI0aaA9Nfa)
 - Neuro-Argumentative Learning with Case-Based Reasoning (_Adam Gould, Francesca Toni_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=tke5yswemI)
+- Neuro-Symbolic Inverse Constrained Reinforcement Learning (_Oliver Deane, Oliver Ray_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=oVb3sJAnfx)
+- LUT Based Neural Networks as Neuro-Symbolic Systems (_Lizy Kurian John, Priscila Machado Vieira Lima, Alan T. L. Bacellar, Shashank Nag, Eugene John, Felipe M.G. França_). **Extended Abstract**, [OpenReview link](https://openreview.net/forum?id=8zLLH9euYp)
 - Beyond the convexity assumption: Realistic tabular data generation under quantifier-free real linear constraints (_Mihaela C. Stoian, Eleonora Giunchiglia_). **Extended Abstract**, [OpenReview link](https://openreview.net/forum?id=y4PZXEJXUc).
+- Neuro‑Symbolic Data Collection Automata for Training Language Models on Edge Devices (_Jake Ryland Williams, August Lilley, Ankur Mali_). **Industry Abstract**, [OpenReview link](https://openreview.net/forum?id=wO7CP2lpCJ)
+- Validating Free Text Against N-Ary Knowledge Graphs (_Jayavanth Shenoy, Jin-Ching Lim, Guha Jayachandran_; [Onai Inc](https://www.onai.com/)). **Industry Abstract**, [Paper link](/assets/pdf/papers/onai_paper.pdf)
 
 **Neurosymbolic Generative Models**
 
