@@ -19,6 +19,7 @@ permalink: /schedule/
 - Neurosymbolic Reasoning Shortcuts under the Independence Assumption (_Emile van Krieken, Pasquale Minervini, Edoardo Ponti, Antonio Vergari_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=ifoKXDf1KS)
 - Neural-Symbolic Architectural Axioms of Integration: A Manifesto (_Connor Pryor, Lise Getoor_). **Long Paper**, [OpenReview link](https://openreview.net/forum?id=zvDSg565AA)
 - Which AI Do We Trust? NeuroSymbolic AI in Healthcare (_Jans Aasman_; [Franz Inc.](https://franz.com/)). **Industry Abstract**, [Paper link](/assets/pdf/papers/franz.pdf)
+- Knowledge Augmented Graph Reasoner (KAGR): A Neuro-Symbolic Approach to Instruction Adherence in Healthcare AI (_Ravi Bajracharya, Aniwaa Owusu-Obeng, Aris Saoulidis, Xeno Acharya, Chris Wai Hang Lo, Arun Bajracharya, Dhurba Bhandari_; [datum.md](https://www.datum.md/)). **Industry Abstract**, [Paper link](/assets/pdf/papers/nesy2025-KAGR-datum.pdf)
 
 **Neurosymbolic Generative Models**
 
