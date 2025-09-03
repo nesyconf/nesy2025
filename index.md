@@ -19,7 +19,6 @@ We are excited to announce our **excellent line-up of keynote speakers**:
 - [Guy van den Broeck](https://web.cs.ucla.edu/~guyvdb/), University of California, LA 
 - [Thomas Kipf](https://tkipf.github.io/), Google DeepMind
 - [Deborah McGuinness](https://faculty.rpi.edu/deborah-mcguinness), Rensselaer Polytechnic Institute
-- [Gary Marcus](https://garymarcus.substack.com/), New York University
 
 
 ### About the NeSy Conference 
