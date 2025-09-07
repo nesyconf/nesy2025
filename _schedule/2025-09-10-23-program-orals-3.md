@@ -1,6 +1,6 @@
 ---
 sequence_id: 24
-speaker: 
+speaker: "Chair: Roberto Confalonieri"
 title: Oral presentations
 time: 09:30 - 10:30
 ---

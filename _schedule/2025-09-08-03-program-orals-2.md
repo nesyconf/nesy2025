@@ -1,6 +1,6 @@
 ---
 sequence_id: 3
-speaker: 
+speaker: "Chair: Michael Cochez"
 title: Oral presentations 
 time: 11:15 - 12:00
 ---

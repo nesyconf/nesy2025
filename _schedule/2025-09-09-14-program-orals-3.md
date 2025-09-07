@@ -1,6 +1,6 @@
 ---
 sequence_id: 14
-speaker: 
+speaker: "Chair: Francesca Toni"
 title: Oral presentations
 time: 10:45 - 11:45
 ---

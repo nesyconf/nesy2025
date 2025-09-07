@@ -1,6 +1,6 @@
 ---
 sequence_id: 28
-speaker: 
+speaker: "Chair: Emile van Krieken"
 title: Industry Session
 time: 13:30 - 14:30
 affil: 
