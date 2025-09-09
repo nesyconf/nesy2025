@@ -11,4 +11,4 @@ affil:
 - **Franz Inc.** (Jans Aasman)
 - **Cognizant** (Hormoz Shahrzad)
 - **Onai Inc.** (Jayavanth Shenoy)
-- **Jake Ryland Williams**
+- **uLamp.ai** (Jake Ryland Williams)
