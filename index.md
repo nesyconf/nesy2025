@@ -11,11 +11,13 @@ layout: home
 
 ![Banner for NeSy 2025 conference](assets/img/banner_nesy.jpg)
 
-This year, **NeSy 2025** will be held in **Santa Cruz, California, from September 8th to 10th.** We accept full papers, short papers, and extended abstracts of recently published papers on any topic related to neurosymbolic AI. Please see the [call for papers](/call-for-papers/) for more details.
+**NeSy 2025** was held in **Santa Cruz, California, from September 8th to 10th.** 
+
+**NeSy 2026** will be held in **Lisbon, Portugal, from September 1st to 4th.** Please see the [conference website](https://nesy-ai.org/conferences/nesy-2026) for more details.
 
 The NeSy series is the longest standing gathering for the presentation and discussion of cutting-edge research in [neurosymbolic AI](https://people.cs.ksu.edu/~hitzler/nesy/). NeSy is the annual meeting of the [Neurosymbolic Learning and Reasoning Association](https://nesy-ai.org/), which has organised NeSy since 2005, back then as a workshop.
 
-We are excited to announce our **excellent line-up of keynote speakers**:
+We had an **excellent line-up of keynote speakers**:
 - [Guy van den Broeck](https://web.cs.ucla.edu/~guyvdb/), University of California, LA 
 - [Thomas Kipf](https://tkipf.github.io/), Google DeepMind
 - [Deborah McGuinness](https://faculty.rpi.edu/deborah-mcguinness), Rensselaer Polytechnic Institute
